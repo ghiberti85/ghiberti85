@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Fernando Ghiberti<br><br>A passionate Software Engineer focus in Front End from Brazil<br><br>- 🔭 I’m currently working on Design System Project with React /Tailwind/Storybook<br><br>- 🌱 I’m currently learning Javascript / Typescript / React / Node<br><br>- 👯 I’m looking to collaborate on React or JS/TS Open Source Projects<br><br>- 🤝 I’m looking for help with Backend / FullStack Development<br><br>- 💬 Ask me about Front End Development<br><br>- 📫 How to reach me ghiberti85@gmail.com
+Hi 👋, I'm Fernando Ghiberti<br><br>A passionate Software Engineer focus in Front End from Brazil<br><br>- 🔭 I’m currently working on Design System Project with React/Tailwind/Storybook<br><br>- 🌱 I’m currently learning Javascript / Typescript / React / Node<br><br>- 👯 I’m looking to collaborate on React or JS/TS Open Source Projects<br><br>- 🤝 I’m looking for help with Backend / FullStack Development<br><br>- 💬 Ask me about Front End Development<br><br>- 📫 How to reach me ghiberti85@gmail.com
 
 
 ## 🌐 Socials:
