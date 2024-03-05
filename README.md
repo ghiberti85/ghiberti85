@@ -16,6 +16,7 @@ Hi 👋, I'm Fernando Ghiberti<br><br>A dedicated and results-driven Software En
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ghiberti85&icon=2&color=6)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=ghiberti85&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
