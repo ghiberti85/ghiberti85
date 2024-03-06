@@ -1,9 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Fernando Ghiberti<br><br>A Senior Front End Engineer from Brazil, with over six years of expertise, specialised in deliver high-quality solutions and guide teams to achieve strategic objectives consistently.]
+Hi 👋, I'm Fernando Ghiberti<br><br>A Senior Front End Engineer from Brazil, with over six years of expertise, specialised in deliver high-quality solutions and guide teams to achieve strategic objectives consistently.
 <br><br>
-My passion lies in creative problem-solving within complex tech environments, with a steadfast focus on optimizing performance and enhancing user experiences
-<br><br>
-I bring extensive expertise in technologies such as JavaScript, React, Hubspot, WordPress, and more. My proven track record includes spearheading CMS migration, resulting in a 30% improvement in website performance and a 40% enhancement in user experience. Notably, I have played a pivotal role in building more than 50 components using HTML, CSS, and JavaScript, considering Google Page Speed best practices to ensure the best user experience for customers.
+My passion lies in creative problem-solving within complex tech environments, with a steadfast focus on optimizing performance and enhancing user experiences. I bring extensive expertise in technologies such as JavaScript, Typescript, React, Tailwind, Vite, Styled Components, Hubspot, WordPress, and more. 
 <br><br>
 - 🔭 I’m currently working on Food Shop Dashboard using Vite/React/Tailwind/Radix-Ui/Zod and more...
 <br><br>
