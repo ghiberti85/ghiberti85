@@ -11,7 +11,3 @@ Hi 👋, I'm Fernando Ghiberti<br><br>A dedicated and results-driven Software En
 ![](https://github-readme-stats.vercel.app/api?username=ghiberti85&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ghiberti85&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghiberti85&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ghiberti85&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
