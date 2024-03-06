@@ -1,6 +1,21 @@
 # 💫 About Me:
-Hi 👋, I'm Fernando Ghiberti<br><br>A dedicated and results-driven Software Engineer focus in Front End from Brazil.<br><br>With over six years of expertise in web development, specializing in guiding teams to achieve strategic objectives and consistently deliver high-quality solutions. My passion lies in creative problem-solving within complex tech environments, focusing on optimizing performance and enhancing user experiences.<br><br>- 🔭 I’m currently working on Design System Project with React/Tailwind/Storybook<br><br>- 👯 I’m looking to collaborate on React or JS/TS Open Source Projects<br><br>- 💬 Ask me about Front End Development<br><br>- 📫 How to reach me ghiberti85@gmail.com <br><br>I am open to talk about new opportunities and eager to contribute my skills to companies seeking innovative solutions. I am ready to collaborate with remote teams and drive success through effective web development solutions.<br><br>
+Hi 👋, I'm Fernando Ghiberti<br><br>A Senior Front End Engineer from Brazil, with over six years of expertise, specialised in deliver high-quality solutions and guide teams to achieve strategic objectives consistently.]
+<br><br>
+My passion lies in creative problem-solving within complex tech environments, with a steadfast focus on optimizing performance and enhancing user experiences
+<br><br>
+I bring extensive expertise in technologies such as JavaScript, React, Hubspot, WordPress, and more. My proven track record includes spearheading CMS migration, resulting in a 30% improvement in website performance and a 40% enhancement in user experience. Notably, I have played a pivotal role in building more than 50 components using HTML, CSS, and JavaScript, considering Google Page Speed best practices to ensure the best user experience for customers.
+<br><br>
+- 🔭 I’m currently working on Food Shop Dashboard using Vite/React/Tailwind/Radix-Ui/Zod and more...
+<br><br>
+- 👯 I’m looking to collaborate on React or JS/TS Open Source Projects
+<br><br>
+- 💬 Ask me about Front End Development
+<br><br>
+- 📫 How to reach me ghiberti85@gmail.com
+<br><br>
 
+I'm open to discussing new opportunities and am eager to contribute my skills to companies seeking innovative solutions. Ready to collaborate with remote teams, I'm poised to drive success through effective web development solutions. 
+<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghiberti85) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ghiberti) 
