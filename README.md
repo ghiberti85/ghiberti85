@@ -5,7 +5,7 @@ My passion lies in creative problem-solving within complex tech environments, wi
 <br><br>
 - 🔭 I’m currently working on a project that allows scheduling time slots for appointments in Google Calendar.
 <br><br>
-- 👯 I’m looking to collaborate on React or JS/TS Open Source Projects
+- 👯 I’m looking to collaborate on React or JS/TS Projects
 <br><br>
 - 💬 Ask me about Front End Development
 <br><br>
