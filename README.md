@@ -3,7 +3,7 @@ Hi 👋, I'm Fernando Ghiberti<br><br>A Senior Front End Engineer from Brazil, w
 <br><br>
 My passion lies in creative problem-solving within complex tech environments, with a steadfast focus on optimizing performance and enhancing user experiences. I bring extensive expertise in technologies such as JavaScript, Typescript, React, Tailwind, Vite, Styled Components, Hubspot, WordPress, and more. 
 <br><br>
-- 🔭 I’m currently working on a project that allows scheduling time slots for appointments in Google Calendar using Next, React Hook Form, Zod and more.
+- 🔭 I’m currently working on a todo list application using React, Redux and Zustand.
 <br><br>
 - 👯 I’m looking to collaborate on React or JS/TS Projects
 <br><br>
