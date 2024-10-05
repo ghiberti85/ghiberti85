@@ -15,10 +15,6 @@ My passion lies in creative problem-solving within complex tech environments, wi
 I'm open to discussing new opportunities and am eager to contribute my skills to companies seeking innovative solutions. Ready to collaborate with remote teams, I'm poised to drive success through effective web development solutions. 
 <br><br>
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghiberti85) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ghiberti) 
-<br><br>
-
 # 💻 Tech Stack:
 
 #### Languages
@@ -47,6 +43,10 @@ I'm open to discussing new opportunities and am eager to contribute my skills to
 
 #### Multimedia
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat) ![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=flat)
+<br><br>
+
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghiberti85) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-ghiberti) 
 <br><br>
 
 # 📊 GitHub Stats:
