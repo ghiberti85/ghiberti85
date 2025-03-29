@@ -5,9 +5,9 @@ My passion lies in creative problem-solving within complex tech environments, wi
 <br><br>
 - 🔭 I'm currently studying Software Engineering specialization at UNICAMP, Brazil.
 <br><br>
-- 👯 I’m looking to collaborate on React or JS/TS Projects
+- 👯 I’m looking to collaborate on React, Node or any JS/TS Projects
 <br><br>
-- 💬 Ask me about Front End Development
+- 💬 Ask me about FullStack Development
 <br><br>
 - 📫 How to reach me ghiberti85@gmail.com
 <br><br>
