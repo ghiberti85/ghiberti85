@@ -1,19 +1,24 @@
 # 💫 About Me:
-Hi 👋, I'm Fernando Ghiberti<br><br>A Senior Front End Engineer from Brazil, with over six years of expertise, specialised in deliver high-quality solutions and guide teams to achieve strategic objectives consistently.
-<br><br>
-My passion lies in creative problem-solving within complex tech environments, with a steadfast focus on optimizing performance and enhancing user experiences. I bring extensive expertise in technologies such as JavaScript, Typescript, React, Tailwind, Vite, Styled Components, Hubspot, WordPress, and more. 
-<br><br>
-- 🔭 I'm currently studying Software Engineering specialization at UNICAMP, Brazil.
-<br><br>
-- 👯 I’m looking to collaborate on React, Node or any JS/TS Projects
-<br><br>
-- 💬 Ask me about FullStack Development
-<br><br>
-- 📫 How to reach me ghiberti85@gmail.com
-<br><br>
+Hi 👋 I'm Fernando Ghiberti
 
-I'm open to discussing new opportunities and am eager to contribute my skills to companies seeking innovative solutions. Ready to collaborate with remote teams, I'm poised to drive success through effective web development solutions. 
-<br><br>
+A **Senior Front-End Engineer** from Brazil with 7+ years of experience delivering high-quality solutions and guiding teams to achieve strategic goals through well-architected, scalable code.
+
+My work focuses on **performance optimization**, **UX enhancement**, and building systems that scale. I have strong expertise in **JavaScript**, **TypeScript**, **React**, **Tailwind**, **Styled Components**, **Vite**, and CMS platforms like **HubSpot** and **WordPress**.
+
+🚀 I’ve led the migration of 20+ high-traffic websites (1M+ yearly users) from HubSpot CMS to Duda CMS, improving performance by 30% and SEO by 40%.  
+🛠️ I’ve created custom solutions like dynamic form systems, AI-powered monitoring tools, and reusable component libraries.  
+📈 Results-driven mindset: reduced bug resolution time by 30%, email engagement by +30%, and page speed by +40%.
+
+🎓 Recently completed a **Software Engineering specialization at UNICAMP**  
+🧠 Currently studying **AI agents and autonomous systems at I2A2**
+
+💬 Let’s collaborate on **React**, **Node.js**, or any **JavaScript/TypeScript** projects.  
+📫 Reach me at **ghiberti85@gmail.com**  
+🌎 Open to remote opportunities worldwide.
+
+Let's build scalable, user-focused solutions together!
+
+<br>
 
 # 💻 Tech Stack:
 
