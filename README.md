@@ -1,22 +1,25 @@
 # 💫 About Me:
-Hi 👋 I'm Fernando Ghiberti
+Hi 👋 I’m Fernando Ghiberti
 
-A **Senior Front-End Engineer** from Brazil with 7+ years of experience delivering high-quality solutions and guiding teams to achieve strategic goals through well-architected, scalable code.
+Senior Software Engineer | Front-end & Full-stack Expert
 
-My work focuses on **performance optimization**, **UX enhancement**, and building systems that scale. I have strong expertise in **JavaScript**, **TypeScript**, **React**, **Tailwind**, **Styled Components**, **Vite**, and CMS platforms like **HubSpot** and **WordPress**.
+Based in Vinhedo, Brazil, I bring 7+ years of experience delivering scalable, high-performance web solutions:
 
-🚀 I’ve led the migration of 20+ high-traffic websites (1M+ yearly users) from HubSpot CMS to Duda CMS, improving performance by 30% and SEO by 40%.  
-🛠️ I’ve created custom solutions like dynamic form systems, AI-powered monitoring tools, and reusable component libraries.  
-📈 Results-driven mindset: reduced bug resolution time by 30%, email engagement by +30%, and page speed by +40%.
+React & Next.js Excellence
+Achieved 38% faster load times and 42% quicker landing-page cycles by building a reusable Design System in React + Tailwind (Storybook).
 
-🎓 Recently completed a **Software Engineering specialization at UNICAMP**  
-🧠 Currently studying **AI agents and autonomous systems at I2A2**
+Conversion & UX Optimization
+Lifted form conversions by 27% and cut abandonment by 25% with dynamic validations (Formik, Yup), intl-tel-input and Google Tag Manager.
 
-💬 Let’s collaborate on **React**, **Node.js**, or any **JavaScript/TypeScript** projects.  
-📫 Reach me at **ghiberti85@gmail.com**  
-🌎 Open to remote opportunities worldwide.
+Automated Diagnostics
+Developed a dashboard integrating Google PageSpeed & OpenAI APIs for continuous performance, SEO & accessibility audits.
 
-Let's build scalable, user-focused solutions together!
+Full-stack & CI/CD
+Proficient in Node.js, TypeScript, PostgreSQL, MongoDB, Docker, GitHub Actions & AWS for reliable, end-to-end delivery.
+
+🎓 Software Engineering Specialist, UNICAMP
+🧠 AI Agents & Autonomous Systems, I2A2
+📫 ghiberti85@gmail.com | Open to remote opportunities 🌎
 
 <br>
 
