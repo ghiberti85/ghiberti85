@@ -17,9 +17,9 @@ Developed a dashboard integrating Google PageSpeed & OpenAI APIs for continuous 
 Full-stack & CI/CD
 Proficient in Node.js, TypeScript, PostgreSQL, MongoDB, Docker, GitHub Actions & AWS for reliable, end-to-end delivery.
 
-🎓 Software Engineering Specialist, UNICAMP
-🧠 AI Agents & Autonomous Systems, I2A2
-📫 ghiberti85@gmail.com | Open to remote opportunities 🌎
+🎓 Software Engineering Specialist, UNICAMP - 2025
+🌎 Open to remote opportunities
+📫 ghiberti85@gmail.com | [Portfolio Website](https://fernando-ghiberti.vercel.app/)
 
 <br>
 
