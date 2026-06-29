@@ -36,6 +36,10 @@ I specialize in **React, Next.js, and TypeScript architectures**, focusing on pe
     <td>Frontend architecture, <b>Design Systems</b> and component-driven development</td>
   </tr>
   <tr>
+    <td align="center">⚙️</td>
+    <td>Backend with <b>Node.js, NestJS and GraphQL</b> — scalable REST APIs, auth flows and database modeling</td>
+  </tr>
+  <tr>
     <td align="center">⚡</td>
     <td>Performance engineering — <b>Core Web Vitals</b>, LCP, CLS and FCP optimization</td>
   </tr>
@@ -269,7 +273,7 @@ Collaborative personal finance PWA built for two — tracks shared expenses, inc
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghiberti85&theme=tokyonight" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghiberti85&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghiberti85&theme=tokyonight&utcOffset=-3" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghiberti85&theme=tokyonight" width="32%"/>
 </p>
 
 ---
