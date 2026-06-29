@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=200&section=header&text=Fernando%20Ghiberti&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=55&descSize=20" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Engineer;React+%2B+Next.js+Specialist;Frontend+Architecture+%26+Design+Systems;Performance+%26+Core+Web+Vitals+Optimization;AI-Powered+Product+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Engineer;React+%2B+Next.js+Specialist;Node.js+%26+NestJS+Backend+Engineering;Frontend+Architecture+%26+Design+Systems;Performance+%26+Core+Web+Vitals+Optimization;AI-Powered+Product+Development" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 💻 **Senior Full-Stack Engineer with 8+ years of experience** building scalable web applications.
 
-I specialize in **React, Next.js, and TypeScript architectures**, focusing on performance, maintainability, and developer experience.
+I build end-to-end web platforms using **React, Next.js, Node.js and TypeScript** — from performant frontend interfaces to scalable REST APIs and GraphQL services, with a focus on clean architecture, maintainability and developer experience.
 
 <br>
 
@@ -37,7 +37,11 @@ I specialize in **React, Next.js, and TypeScript architectures**, focusing on pe
   </tr>
   <tr>
     <td align="center">⚙️</td>
-    <td>Backend with <b>Node.js, NestJS and GraphQL</b> — scalable REST APIs, auth flows and database modeling</td>
+    <td>REST APIs & GraphQL services with <b>Node.js and NestJS</b> — authentication, authorization, modular architecture and clean code patterns</td>
+  </tr>
+  <tr>
+    <td align="center">🗄️</td>
+    <td>Database design with <b>PostgreSQL, MongoDB and Redis</b> — schema modeling, migrations and query optimization via Prisma ORM</td>
   </tr>
   <tr>
     <td align="center">⚡</td>
@@ -81,11 +85,22 @@ I specialize in **React, Next.js, and TypeScript architectures**, focusing on pe
 
 ## ⚙️ Tech Stack
 
+**Frontend**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,storybook,nodejs,nestjs,graphql&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,storybook,vite&theme=dark&perline=10" />
 </p>
+
+**Backend & Data**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,redis,docker,aws,vercel,git,github,vite&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,prisma,postgres,mongodb,redis,docker&theme=dark&perline=10" />
+</p>
+
+**Cloud & Tooling**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github&theme=dark&perline=10" />
 </p>
 
 ---
