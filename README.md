@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-💻 **Senior Full-Stack Engineer with 7+ years of experience** building scalable web applications.
+💻 **Senior Full-Stack Engineer with 8+ years of experience** building scalable web applications.
 
 I specialize in **React, Next.js, and TypeScript architectures**, focusing on performance, maintainability, and developer experience.
 
@@ -32,34 +32,81 @@ I specialize in **React, Next.js, and TypeScript architectures**, focusing on pe
 
 <table width="100%">
   <tr>
-    <td align="center">🚀</td>
-    <td>Built a <b>React Design System with 80+ reusable components</b></td>
+    <td align="center">🎨</td>
+    <td>Frontend architecture, <b>Design Systems</b> and component-driven development</td>
   </tr>
   <tr>
     <td align="center">⚡</td>
-    <td>Improved <b>LCP by 38%</b> reaching Core Web Vitals green tier</td>
-  </tr>
-  <tr>
-    <td align="center">📈</td>
-    <td>Increased <b>conversion rates by 27%</b> through UX optimization</td>
+    <td>Performance engineering — <b>Core Web Vitals</b>, LCP, CLS and FCP optimization</td>
   </tr>
   <tr>
     <td align="center">🏗</td>
-    <td>Led frontend architecture across <b>multi-brand platforms</b></td>
-  </tr>
-  <tr>
-    <td align="center">📊</td>
-    <td>Built automated <b>SEO & performance auditing dashboards</b></td>
+    <td>Led frontend architecture across <b>multi-brand, multi-tenant platforms</b></td>
   </tr>
   <tr>
     <td align="center">🤖</td>
-    <td>Shipped <b>AI-powered features</b> with Claude, Groq and OpenAI APIs</td>
+    <td>AI-powered product development with <b>Claude, Groq and OpenAI</b> APIs</td>
+  </tr>
+  <tr>
+    <td align="center">🔍</td>
+    <td>Technical SEO, <b>automated performance auditing</b> and web analytics</td>
+  </tr>
+  <tr>
+    <td align="center">🧪</td>
+    <td>Quality engineering — comprehensive <b>unit, integration and E2E</b> test suites</td>
   </tr>
 </table>
 
 <br>
 
 🎓 Software Engineering Specialist — UNICAMP &nbsp;|&nbsp; 🌎 Based in Brazil — Open to **remote opportunities**
+
+---
+
+## ⚡ By the Numbers
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h3>100+</h3>
+      <sub>Projects Delivered</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>8+</h3>
+      <sub>Years of Experience</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>10M+</h3>
+      <sub>Annual Visits Served</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>25+</h3>
+      <sub>Sites Migrated</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>60+</h3>
+      <sub>Design System Components</sub>
+    </td>
+    <td align="center">
+      <h3>80%+</h3>
+      <sub>Test Coverage</sub>
+    </td>
+    <td align="center">
+      <h3>100</h3>
+      <sub>SEO & A11y Score</sub>
+    </td>
+    <td align="center">
+      <h3>50%</h3>
+      <sub>Avg. Performance Gain</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
