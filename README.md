@@ -71,44 +71,9 @@ I specialize in **React, Next.js, and TypeScript architectures**, focusing on pe
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <h3>100+</h3>
-      <sub>Projects Delivered</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>8+</h3>
-      <sub>Years of Experience</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>10M+</h3>
-      <sub>Annual Visits Served</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>25+</h3>
-      <sub>Sites Migrated</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <h3>60+</h3>
-      <sub>Design System Components</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>80%+</h3>
-      <sub>Test Coverage</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>100</h3>
-      <sub>SEO & A11y Score</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>50%</h3>
-      <sub>Avg. Performance Gain</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="numbers.svg" alt="By the Numbers" />
+</p>
 
 <br>
 

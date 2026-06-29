@@ -1,0 +1,44 @@
+<svg width="100%" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .num { font: 700 30px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; fill: #38bdf8; }
+      .lbl { font: 400 12px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; fill: #94a3b8; }
+    </style>
+  </defs>
+
+  <!-- Row 1 -->
+  <rect x="0"   y="0" width="192" height="115" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="202" y="0" width="192" height="115" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="404" y="0" width="192" height="115" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="606" y="0" width="192" height="115" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+
+  <text class="num" x="96"  y="50" text-anchor="middle">100+</text>
+  <text class="lbl" x="96"  y="76" text-anchor="middle">Projects Delivered</text>
+
+  <text class="num" x="298" y="50" text-anchor="middle">8+</text>
+  <text class="lbl" x="298" y="76" text-anchor="middle">Years of Experience</text>
+
+  <text class="num" x="500" y="50" text-anchor="middle">10M+</text>
+  <text class="lbl" x="500" y="76" text-anchor="middle">Annual Visits Served</text>
+
+  <text class="num" x="702" y="50" text-anchor="middle">25+</text>
+  <text class="lbl" x="702" y="76" text-anchor="middle">Sites Migrated</text>
+
+  <!-- Row 2 -->
+  <rect x="0"   y="125" width="192" height="115" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="202" y="125" width="192" height="115" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="404" y="125" width="192" height="115" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="606" y="125" width="192" height="115" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+
+  <text class="num" x="96"  y="175" text-anchor="middle">60+</text>
+  <text class="lbl" x="96"  y="201" text-anchor="middle">Design System Components</text>
+
+  <text class="num" x="298" y="175" text-anchor="middle">80%+</text>
+  <text class="lbl" x="298" y="201" text-anchor="middle">Test Coverage</text>
+
+  <text class="num" x="500" y="175" text-anchor="middle">100</text>
+  <text class="lbl" x="500" y="201" text-anchor="middle">SEO &amp; A11y Score</text>
+
+  <text class="num" x="702" y="175" text-anchor="middle">50%</text>
+  <text class="lbl" x="702" y="201" text-anchor="middle">Avg. Performance Gain</text>
+</svg>
