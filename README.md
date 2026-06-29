@@ -250,6 +250,31 @@ Collaborative personal finance PWA built for two — tracks shared expenses, inc
 
 </details>
 
+<br>
+
+<details>
+<summary><b>🔍 AI Code Reviewer — Real-Time Code Quality Analyzer</b> &nbsp;<code>React</code> <code>TypeScript</code> <code>Groq AI</code> <code>Vite</code></summary>
+<br>
+
+> Paste your code. Get a score, issues with fixes, and a refactored version — all streamed in real time.
+
+An AI-powered code review tool built for developers who want instant, actionable feedback. Paste any snippet and the model returns a **quality score from 0 to 100**, a list of issues with concrete fix suggestions, and a fully refactored version of the code — all streamed token by token via Groq's Llama 4.
+
+<br>
+
+| | |
+|:---:|:---|
+| 📊 | Quality score 0–100 with breakdown by category |
+| 🐛 | Detailed issue list with concrete, copy-paste fix suggestions |
+| ✨ | AI-refactored version of the submitted code |
+| ⚡ | Real-time streaming output via Groq API (Llama 4) |
+
+<br>
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ghiberti85/ai-code-reviewer)
+
+</details>
+
 ---
 
 ## 📊 GitHub Stats
