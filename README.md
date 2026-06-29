@@ -91,19 +91,19 @@ I specialize in **React, Next.js, and TypeScript architectures**, focusing on pe
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="25%">
       <h3>60+</h3>
       <sub>Design System Components</sub>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <h3>80%+</h3>
       <sub>Test Coverage</sub>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <h3>100</h3>
       <sub>SEO & A11y Score</sub>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <h3>50%</h3>
       <sub>Avg. Performance Gain</sub>
     </td>
