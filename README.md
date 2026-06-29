@@ -261,14 +261,6 @@ Collaborative personal finance PWA built for two — tracks shared expenses, inc
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghiberti85&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
