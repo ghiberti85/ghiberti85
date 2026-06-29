@@ -102,7 +102,7 @@ I specialize in **React, Next.js, and TypeScript architectures**, focusing on pe
 
 > Enterprise-grade monorepo for scalable UI development across multi-brand platforms.
 
-Built a production-ready design system from the ground up — 46 React components organized by atomic design principles, paired with 9 fully interchangeable theme sets driven by CSS Custom Properties. Shipped with live Storybook docs and a Next.js showcase app for interactive exploration.
+Built a production-ready design system from the ground up — 50 React components organized by atomic design principles, paired with 9 fully interchangeable theme sets driven by CSS Custom Properties. Shipped with live Storybook docs and a Next.js showcase app for interactive exploration.
 
 **Tech Stack**
 
@@ -114,7 +114,7 @@ Built a production-ready design system from the ground up — 46 React component
 
 **Highlights**
 
-• 46 production-ready components spanning atoms, molecules and organisms  
+• 50 production-ready components spanning atoms, molecules and organisms  
 • 9 design token themes — zero-runtime, swapped with a single HTML attribute  
 • Fully typed component API with prop autocomplete and strict variant enforcement  
 • Live Storybook with interactive controls and accessibility checks built in  
@@ -125,9 +125,9 @@ Built a production-ready design system from the ground up — 46 React component
 
 ### 🌐 Next Portfolio — AI-Enhanced Full-Stack Showcase
 
-> 95 PageSpeed score on mobile. AI chatbot. Bilingual. Built to impress.
+> 99 PageSpeed score on mobile. AI chatbot. Bilingual. Built to impress.
 
-A production-grade developer portfolio built as a technical statement in itself — not just a resume site. Integrated a Groq AI chatbot that answers questions about my experience in real time, dynamic content via Supabase, bilingual routing (EN/PT-BR) and scored 95 on PageSpeed mobile — Core Web Vitals green tier across the board.
+A production-grade developer portfolio built as a technical statement in itself — not just a resume site. Integrated a Groq AI chatbot that answers questions about my experience in real time, dynamic content via Supabase, bilingual routing (EN/PT-BR) and scored 99 on PageSpeed mobile — Core Web Vitals green tier across the board.
 
 **Tech Stack**
 
@@ -139,7 +139,7 @@ A production-grade developer portfolio built as a technical statement in itself 
 
 **Highlights**
 
-• 95 PageSpeed mobile — fully green Core Web Vitals  
+• 99 PageSpeed mobile — fully green Core Web Vitals  
 • AI chatbot powered by Groq answering questions about my stack and experience  
 • Bilingual with seamless EN ↔ PT-BR locale switching  
 • Dark/light mode with system preference detection and zero layout shift  
@@ -173,24 +173,22 @@ Full-stack SaaS platform for technical interview preparation with AI at its core
 
 ---
 
-### 🏛 Philosophia — Interactive 3D Encyclopedia of Philosophy
+### 🏛 Philosophia — Interactive Encyclopedia of Philosophy
 
-> WebGL philosopher busts. AI-generated portraits. 138-question quiz engine. Because why not.
+> AI-generated portraits. Isometric scenes. 138-question quiz engine. Because why not.
 
-The most ambitious creative-technical project in this portfolio. A bilingual interactive encyclopedia spanning 8 philosophical schools and 23 philosopher profiles — complete with cel-shaded 3D busts rendered in WebGL via react-three-fiber, AI-generated portrait illustrations, isometric scene compositions, and a 138-question adaptive quiz bank. EN/PT-BR throughout.
+The most ambitious creative-technical project in this portfolio. A bilingual interactive encyclopedia spanning 8 philosophical schools and 23 philosopher profiles — complete with AI-generated portrait illustrations, isometric scene compositions, and a 138-question adaptive quiz bank. EN/PT-BR throughout.
 
 **Tech Stack**
 
 ![NextJS](https://img.shields.io/badge/next.js_14-000?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-000?style=flat-square&logo=three.js)
-![React Three Fiber](https://img.shields.io/badge/react--three--fiber-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Highlights**
 
-• Cel-shaded 3D philosopher busts rendered in real-time via WebGL / react-three-fiber  
 • AI-generated portraits with a consistent, editorial visual language across all philosophers  
+• Isometric scene illustrations for each philosophical school of thought  
 • 138-question quiz bank with contextual scoring and school-of-thought breakdowns  
 • 8 philosophical schools, 23 deep-dive profiles — bilingual EN/PT-BR  
 
