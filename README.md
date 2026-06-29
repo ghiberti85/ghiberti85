@@ -261,6 +261,19 @@ Collaborative personal finance PWA built for two — tracks shared expenses, inc
 
 ---
 
+## 📋 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghiberti85&theme=tokyonight" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghiberti85&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghiberti85&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghiberti85&theme=tokyonight&utcOffset=-3" width="32%"/>
+</p>
+
+---
+
 ## 📈 Activity Graph
 
 <p align="center">
