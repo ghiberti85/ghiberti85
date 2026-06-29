@@ -96,35 +96,130 @@ I specialize in **React, Next.js, and TypeScript architectures**, focusing on pe
 
 # 🚀 Featured Projects
 
-### MTG Stats
+---
 
-Full-stack analytics platform for Magic: The Gathering players.
+### 🎨 Design System — Component Library & Token Architecture
 
-Tech stack  
-Next.js • NestJS • PostgreSQL • JWT • Recharts
+> Enterprise-grade monorepo for scalable UI development across multi-brand platforms.
 
-Features  
+Built a production-ready design system from the ground up — 46 React components organized by atomic design principles, paired with 9 fully interchangeable theme sets driven by CSS Custom Properties. Shipped with live Storybook docs and a Next.js showcase app for interactive exploration.
 
-• Match analytics dashboard  
-• Deck performance tracking  
-• Player statistics  
-• REST API with authentication  
+**Tech Stack**
+
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook)
+![NextJS](https://img.shields.io/badge/next.js-000?style=flat-square&logo=next.js)
+![Turborepo](https://img.shields.io/badge/turborepo-EF4444?style=flat-square&logo=turborepo)
+
+**Highlights**
+
+• 46 production-ready components spanning atoms, molecules and organisms  
+• 9 design token themes — zero-runtime, swapped with a single HTML attribute  
+• Fully typed component API with prop autocomplete and strict variant enforcement  
+• Live Storybook with interactive controls and accessibility checks built in  
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ghiberti85/ui)
 
 ---
 
-### Finanças do Casal
+### 🌐 Next Portfolio — AI-Enhanced Full-Stack Showcase
 
-Personal finance management platform.
+> 95 PageSpeed score on mobile. AI chatbot. Bilingual. Built to impress.
 
-Tech stack  
-React • Supabase • PostgreSQL • Vite
+A production-grade developer portfolio built as a technical statement in itself — not just a resume site. Integrated a Groq AI chatbot that answers questions about my experience in real time, dynamic content via Supabase, bilingual routing (EN/PT-BR) and scored 95 on PageSpeed mobile — Core Web Vitals green tier across the board.
 
-Features  
+**Tech Stack**
 
-• Budget tracking  
-• Recurring expenses  
-• Secure authentication  
-• Dashboard analytics  
+![NextJS](https://img.shields.io/badge/next.js_15-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000?style=flat-square&logo=vercel)
+
+**Highlights**
+
+• 95 PageSpeed mobile — fully green Core Web Vitals  
+• AI chatbot powered by Groq answering questions about my stack and experience  
+• Bilingual with seamless EN ↔ PT-BR locale switching  
+• Dark/light mode with system preference detection and zero layout shift  
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ghiberti85/next-portfolio)
+
+---
+
+### 🤖 DevInterviewLab — AI-Powered Interview Prep Platform
+
+> Personalized roadmaps, live coding simulator, and flash drills — built for engineers, by an engineer.
+
+Full-stack SaaS platform for technical interview preparation with AI at its core. The platform generates personalized study roadmaps by tech stack, produces curated Q&A banks, simulates live coding sessions with real-time AI hints, and offers Flash Topics — 5-minute daily drills designed for long-term retention. Fully bilingual (EN/PT).
+
+**Tech Stack**
+
+![NextJS](https://img.shields.io/badge/next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Groq](https://img.shields.io/badge/groq_AI-F55036?style=flat-square)
+
+**Highlights**
+
+• AI-generated study roadmaps personalized by tech stack and seniority  
+• Live coding simulator with contextual hints and solution feedback  
+• Flash Topics: bite-sized daily practice for active recall  
+• Bilingual platform — seamless EN ↔ PT switching throughout  
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ghiberti85/devinterviewlab)
+
+---
+
+### 🏛 Philosophia — Interactive 3D Encyclopedia of Philosophy
+
+> WebGL philosopher busts. AI-generated portraits. 138-question quiz engine. Because why not.
+
+The most ambitious creative-technical project in this portfolio. A bilingual interactive encyclopedia spanning 8 philosophical schools and 23 philosopher profiles — complete with cel-shaded 3D busts rendered in WebGL via react-three-fiber, AI-generated portrait illustrations, isometric scene compositions, and a 138-question adaptive quiz bank. EN/PT-BR throughout.
+
+**Tech Stack**
+
+![NextJS](https://img.shields.io/badge/next.js_14-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000?style=flat-square&logo=three.js)
+![React Three Fiber](https://img.shields.io/badge/react--three--fiber-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Highlights**
+
+• Cel-shaded 3D philosopher busts rendered in real-time via WebGL / react-three-fiber  
+• AI-generated portraits with a consistent, editorial visual language across all philosophers  
+• 138-question quiz bank with contextual scoring and school-of-thought breakdowns  
+• 8 philosophical schools, 23 deep-dive profiles — bilingual EN/PT-BR  
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ghiberti85/philosophia)
+
+---
+
+### 💰 Finanças do Casal — Collaborative Finance PWA with AI Import
+
+> Shared budget dashboard for couples. Paste your bank export — Claude categorizes it for you.
+
+Collaborative personal finance PWA built for two — tracks shared expenses, income, recurring bills, and installments in a unified dashboard. The standout feature: AI-powered spreadsheet import via Claude Sonnet. Users paste raw bank exports and the model parses, cleans, and categorizes every transaction automatically, slashing manual data entry.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql)
+![Claude](https://img.shields.io/badge/claude_sonnet-D97706?style=flat-square)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Highlights**
+
+• AI-powered import via Claude Sonnet — paste bank data, model parses and categorizes  
+• Real-time shared dashboard synced between both partners  
+• Installment tracking with automatic monthly split-distribution  
+• PWA — installable on mobile, works offline  
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ghiberti85/financa-casal)
 
 ---
 
