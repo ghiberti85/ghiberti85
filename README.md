@@ -94,13 +94,13 @@ I build end-to-end web platforms using **React, Next.js, Node.js and TypeScript*
 **Backend & Data**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,prisma,postgres,mongodb,redis,docker&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,prisma,postgres,mongodb,redis&theme=dark&perline=10" />
 </p>
 
 **Cloud & Tooling**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,githubactions,linux&theme=dark&perline=10" />
 </p>
 
 ---
@@ -294,7 +294,7 @@ An AI-powered code review tool built for developers who want instant, actionable
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ghiberti85/ghiberti85/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
