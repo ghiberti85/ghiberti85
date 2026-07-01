@@ -88,7 +88,7 @@ I build end-to-end web platforms using **React, Next.js, Node.js and TypeScript*
 **Frontend**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,storybook,vite&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,jest,vite&theme=dark&perline=10" />
 </p>
 
 **Backend & Data**
@@ -260,12 +260,11 @@ An AI-powered code review tool built for developers who want instant, actionable
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ghiberti85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiberti85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://streak-stats.demolab.com?user=ghiberti85&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ghiberti85&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiberti85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
@@ -287,14 +286,6 @@ An AI-powered code review tool built for developers who want instant, actionable
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghiberti85&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghiberti85/ghiberti85/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
