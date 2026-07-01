@@ -290,6 +290,14 @@ An AI-powered code review tool built for developers who want instant, actionable
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghiberti85/ghiberti85/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
