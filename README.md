@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=200&section=header&text=Fernando%20Ghiberti&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=55&descSize=20" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Engineer;React+%2B+Next.js+Specialist;Node.js+%26+NestJS+Backend+Engineering;Frontend+Architecture+%26+Design+Systems;Performance+%26+Core+Web+Vitals+Optimization;AI-Powered+Product+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Engineer;React+%2B+Next.js+Specialist;Node.js+%26+NestJS+Backend+Engineering;Frontend+Architecture+%26+Design+Systems;AI-Powered+Product+Development+with+Claude+%26+OpenAI;Performance+%26+Core+Web+Vitals+Optimization" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://fernando-ghiberti.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ghiberti85&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
@@ -24,9 +24,9 @@
 
 ## 🚀 About Me
 
-💻 **Senior Full-Stack Engineer with 8+ years of experience** building scalable web applications.
+💻 **Senior Full-Stack Software Engineer with 8+ years of experience** building scalable web applications.
 
-I build end-to-end web platforms using **React, Next.js, Node.js and TypeScript** — from performant frontend interfaces to scalable REST APIs and GraphQL services, with a focus on clean architecture, maintainability and developer experience.
+I build end-to-end web platforms using **React, Next.js, Node.js and TypeScript** — from performant frontend interfaces to scalable REST APIs and GraphQL services, with a focus on clean architecture, system design, maintainability and developer experience. Comfortable across the stack as a **Frontend Developer, Backend Developer and AI Engineer**, integrating LLM APIs (Claude, OpenAI, Groq) into production products, with CI/CD pipelines via GitHub Actions and a strong focus on web accessibility (a11y).
 
 <br>
 
@@ -102,6 +102,15 @@ I build end-to-end web platforms using **React, Next.js, Node.js and TypeScript*
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,githubactions,linux&theme=dark&perline=10" />
 </p>
+
+<br>
+
+- **Languages:** TypeScript, JavaScript
+- **Frontend:** React, Next.js, Redux, Tailwind CSS, Vite, Jest, Storybook, Design Systems
+- **Backend:** Node.js, NestJS, REST APIs, GraphQL, Prisma
+- **Data:** PostgreSQL, MongoDB, Redis
+- **AI:** Claude API, OpenAI API, Groq API (Llama), AI-powered applications
+- **Cloud & DevOps:** AWS, Vercel, Docker, Git, GitHub Actions, CI/CD, Linux
 
 ---
 
@@ -255,29 +264,62 @@ An AI-powered code review tool built for developers who want instant, actionable
 
 </details>
 
+<br>
+
+<details>
+<summary><b>🗂 Interview Command Center — AI-Powered Job Search CRM</b> &nbsp;<code>React</code> <code>Claude API</code> <code>Supabase</code> <code>TypeScript</code></summary>
+<br>
+
+> A personal CRM for job hunting — track every interview stage, let AI draft your recruiter replies.
+
+Personal CRM built to manage job interview pipelines end-to-end. Uses the **Claude API** to generate recruiter responses and adapt CVs per opportunity, backed by Supabase for real-time pipeline and stage tracking.
+
+<br>
+
+| | |
+|:---:|:---|
+| 🤖 | AI-generated recruiter responses and CV adaptation via Claude API |
+| 📋 | Full pipeline tracking across every interview stage |
+| 🔄 | Real-time data sync powered by Supabase |
+| ⚛️ | Built with React and TypeScript |
+
+<br>
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ghiberti85/interview-command-center)
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🏯 Philosophia Oriental — Eastern Philosophy Encyclopedia</b> &nbsp;<code>Next.js</code> <code>TypeScript</code> <code>AI</code> <code>Tailwind</code></summary>
+<br>
+
+> The Eastern-philosophy companion to Philosophia — same AI-driven visual language, new schools of thought.
+
+Companion project to Philosophia, extending the interactive encyclopedia format to Eastern philosophical traditions, with the same bilingual (EN/PT-BR), AI-assisted illustration pipeline built on Next.js and TypeScript.
+
+<br>
+
+| | |
+|:---:|:---|
+| 🏯 | Interactive encyclopedia focused on Eastern philosophical schools |
+| 🎨 | AI-generated illustrations consistent with the Philosophia visual language |
+| 🌐 | Bilingual EN / PT-BR content |
+| 🔷 | Built with Next.js and TypeScript |
+
+<br>
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ghiberti85/philosophia-oriental)
+
+</details>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ghiberti85&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiberti85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
----
-
-## 📋 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghiberti85&theme=tokyonight" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghiberti85&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghiberti85&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghiberti85&theme=tokyonight" width="32%"/>
 </p>
 
 ---
