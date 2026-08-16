@@ -30,11 +30,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           config_timezone: America/Sao_Paulo
-
-      - name: Push metrics to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          keep_files: true
