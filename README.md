@@ -319,8 +319,10 @@ Companion project to Philosophia, extending the interactive encyclopedia format 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ghiberti85&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/ghiberti85/ghiberti85/main/dist/metrics.svg"/>
 </p>
+
+<sub>Métricas geradas automaticamente via GitHub Actions (<code>.github/workflows/metrics.yml</code>) — SVG estático, sem depender de serviços de terceiros ao vivo.</sub>
 
 ---
 
