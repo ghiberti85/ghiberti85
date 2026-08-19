@@ -142,7 +142,7 @@ Built a production-ready design system from the ground up — **50 React compone
 <br>
 
 <details>
-<summary><b>🌐 Next Portfolio — AI-Enhanced Full-Stack Showcase</b> &nbsp;<code>Next.js 15</code> <code>Groq AI</code> <code>Supabase</code> <code>TypeScript</code></summary>
+<summary><b>🌐 Next Portfolio — AI-Enhanced Full-Stack Showcase</b> &nbsp;<code>Next.js 16</code> <code>Groq AI</code> <code>Supabase</code> <code>TypeScript</code></summary>
 <br>
 
 > 99 PageSpeed score on mobile. AI chatbot. Bilingual. Built to impress.
